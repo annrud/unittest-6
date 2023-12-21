@@ -23,6 +23,6 @@
 
 ![Coverage](images/coverage.png)
 
-![Pylint with compare.py](images/pylint with compare.png)
+![Pylint with compare.py](images/pylint_with_compare.png)
 
-![Pylint with test_compare.py](images/pylint with test_compare.png)
+![Pylint with test_compare.py](images/pylint_with_test_compare.png)
